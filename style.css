@@ -37,3 +37,24 @@ p > header {
    font-size: 1.25rem;
 }
 
+.profile-pic {
+   width: 150px;
+   border-radius: 50%;
+}
+
+rel > div {
+   color: purple;
+}
+
+#experience:first-of-type {
+   border-bottom: 2px dashed #ccc;
+}
+
+section > main {
+   margin-bottom: 3rem;
+}
+
+strong > p + h2 > section {
+   color: purple;
+}
+
