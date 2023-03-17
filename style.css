@@ -12,12 +12,6 @@ p {
    margin: .5em 0;
 }
 
-p, h1, h3 {
-   color: purple;
-   font-family: sans-serif;
-   font-weight: bold;
-}
-
 h1, h3 + p {
    color: purple;
    font-family: sans-serif;
@@ -54,7 +48,14 @@ section > main {
    margin-bottom: 3rem;
 }
 
-strong > p + h2 > section {
+main > section h2 + p strong {
+   color: purple;
+ }
+
+li:nth-child(2) {
    color: purple;
 }
 
+div > dd, dt {
+   background-color: #ccc;
+}

@@ -53,10 +53,10 @@
   - add `margin-bottom: 3rem;`  
 
 12. Select the `strong` tag inside the `p` tag directly after the `h2` in the `section` directly inside the `main`
-  - add `color: purple;`
+  - add `color: purple;` ****?
 
 13. Select every even `li`
-  - add `color: purple;`
+  - add `color: purple;` ****?
 
 14. Select the last `div` inside the `dl`
   - add `background-color: #ccc;`  
